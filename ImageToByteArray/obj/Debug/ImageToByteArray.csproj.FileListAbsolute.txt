@@ -1,0 +1,9 @@
+F:\Projects\ImageToByteArray\ImageToByteArray\bin\Debug\ImageToByteArray.exe.config
+F:\Projects\ImageToByteArray\ImageToByteArray\bin\Debug\ImageToByteArray.exe
+F:\Projects\ImageToByteArray\ImageToByteArray\bin\Debug\ImageToByteArray.pdb
+F:\Projects\ImageToByteArray\ImageToByteArray\obj\Debug\ImageToByteArray.csprojResolveAssemblyReference.cache
+F:\Projects\ImageToByteArray\ImageToByteArray\obj\Debug\ImageToByteArray.Form1.resources
+F:\Projects\ImageToByteArray\ImageToByteArray\obj\Debug\ImageToByteArray.Properties.Resources.resources
+F:\Projects\ImageToByteArray\ImageToByteArray\obj\Debug\ImageToByteArray.csproj.GenerateResource.Cache
+F:\Projects\ImageToByteArray\ImageToByteArray\obj\Debug\ImageToByteArray.exe
+F:\Projects\ImageToByteArray\ImageToByteArray\obj\Debug\ImageToByteArray.pdb
